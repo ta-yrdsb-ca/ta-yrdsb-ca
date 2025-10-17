@@ -2,12 +2,14 @@
 <head>
 <link href="style.css" rel="stylesheet" media="screen">
 <title>teachassist - parent portal - one time access request</title>
-<style>
-.button_green:active {
-  background-color: black !important;
-  color: white !important;
-}
-</style>
+<script>
+  const btn = document.getElementById('myButton');
+  btn.addEventListener('click', function() {
+    this.value = '엄';
+    this.style.backgroundColor = 'black';
+    this.style.color = 'white';
+  });
+</script>
 </head>
 <body>
 <div class="box" style="width:80vw;background:#013b15;text-align:center;">
@@ -44,3 +46,4 @@
 </center>
 </body>
 </html>
+

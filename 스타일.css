@@ -154,7 +154,7 @@ img {
 .content {
 	width:90%;
 	background:#ffffff;
-	background-image: url("images/bg_offwhite_paper.jpg");
+	background-image: url("img/bg_grey_paper.jpg");
 	border:1px solid #cceecc;
 	margin: 10px auto 10px auto ;
 	padding: 10px;
@@ -558,4 +558,5 @@ h3 {font-size: 9pt; color: #000; font-family: Arial, Helvetica, Geneva, Swiss, s
     background-position: 2px 2px;
     background-repeat: no-repeat;
 }
+
 

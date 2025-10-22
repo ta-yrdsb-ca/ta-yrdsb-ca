@@ -1,6 +1,6 @@
 body, nav, ul, li, a  {margin: 0; padding: 0;}
 body {
-	background-image: url("images/bg_grey_paper.jpg");
+	background-image: url("img/bg_grey_paper.jpg");
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
 	line-height: 1.8;
 	font-size: 12pt;
@@ -558,6 +558,7 @@ h3 {font-size: 9pt; color: #000; font-family: Arial, Helvetica, Geneva, Swiss, s
     background-position: 2px 2px;
     background-repeat: no-repeat;
 }
+
 
 
 
